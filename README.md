@@ -1,2 +1,2 @@
 ## 💬 About me !
-### My name is Casper Bröcheler and I am a Data Science & Artifical Intelligence bachelor student at Maastricht University. 
+### My name is Casper Bröcheler and I am an Artifical Intelligence Master student at Maastricht University. 
